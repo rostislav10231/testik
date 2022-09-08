@@ -1,0 +1,67 @@
+body {
+	margin:0;
+	padding:0;
+	font-family: Tahoma, Arial;
+	background-color: #ffffff;
+	background-image: url(../images/base-bg.gif);
+	background-repeat: repeat-x;
+}
+p,td,div {font-family:Tahoma, Arial;margin-top: 0px;}
+a img{border:0;}
+a{color: #5b7c00;text-decoration: underline;}
+a:hover{color: #94CC00;text-decoration: underline;}
+a.hidden {text-decoration: none;color: #000000;cursor:default;}
+form {margin:0;padding:0;}
+ul {margin-left:20px;margin-top:0px;padding:1px;list-style-type: square;line-height: 16px;}
+.bot_bg {background-image: url(../images/botbg.gif);background-repeat: repeat-x;background-position: top;}
+h1 {font-size: 14px;font-weight: bold;color: #242424;margin: 0px;padding-bottom: 5px;font-family: Arial, Helvetica, sans-serif;	text-transform: uppercase;}
+.bottom_addr {font-size: 11px;color: #FFFFFF;margin-top: 1px;margin-right: 20px;margin-bottom: 10px;margin-left: 20px;}
+.bottom_addr a {text-decoration: none;}
+.bottom_addr a:hover {text-decoration: underline;}
+.bottom_menu {color: #000000;text-align: left;margin-top: 10px;margin-right: 20px;margin-bottom: 3px;margin-left: 20px;	font-size: 12px;}
+.bottom_menu a {color: #000000;text-decoration: underline;}
+.bottom_menu a:hover {color: #FFFFFF;text-decoration: underline;}
+.menu {background-image: url(../images/menu-bg.gif);background-repeat: repeat-x;font-weight: bold;white-space: nowrap;}
+.menu td{	text-align: center;font-size: 12px;	font-weight: bold;}
+.menu a{text-decoration: none;color: #FFFFFF;}
+.menu a:hover {color: #FFFFFF;text-decoration: underline;}
+.b_table {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #DDDDDD;
+	border-bottom-color: #DDDDDD;
+	border-left-color: #DDDDDD;
+	border-top-color: #DDDDDD;
+	padding: 1px;
+	background-color: #FFFFFF;
+}
+
+.sub {color: #e2aa0f;text-transform: none;vertical-align: top;padding-top: 4px;padding-right: 5px;}
+.sub a{color: #e2aa0f;text-decoration: none;}
+.sub a:hover {color: #e2aa0f;text-decoration: underline;}
+.body_txt {color: #000000;text-align: justify;vertical-align: top;font-size: 12px;padding-top: 10px;padding-right: 20px;padding-bottom: 10px;padding-left: 20px;}
+.company_name {font-size: 22px;font-weight: normal;text-transform: none;color: #010101;	position: absolute;	padding-top: 115px;	padding-left: 21px;}
+.login_form {background-image: url(../images/login-form-bg.gif);background-repeat: repeat-x;height: 20px;width: 110px;border-width: 1px;border-style: solid;font-size: 11px;padding-top: 3px;padding-left: 1px;}
+#shopping_cart {background-repeat:no-repeat;background-image: url(../images/shopping-cart-bg.gif);background-position: 0px 6px;height: 116px;padding-left: 15px;font-size: 12px;}
+#shopping_cart td{
+	font-size:14px;
+}
+#rmenu-title {
+	background:url(../images/rmenu-titlebg.gif);
+	background-repeat:no-repeat;
+	height:15px;
+	font-size: 12px;
+	color: #FFFFFF;
+	padding-top: 8px;
+	padding-bottom: 7px;
+	padding-right: 18px;
+	padding-left: 18px;
+	font-weight: bold;
+}
+.rmenu {background:url(../images/rmenu-bg.gif);	background-repeat:repeat-y;	padding-top: 5px;}
+.rmenu a{color:#000000;display:block;font-size: 11px;padding-left: 39px;padding-top: 2px;padding-right: 20px;	padding-bottom: 3px;background-image: url(../images/rmenu-bullet.gif);background-repeat: no-repeat;background-position: 19px 7px;}
+.rmenu a:hover{color:#666666;}
